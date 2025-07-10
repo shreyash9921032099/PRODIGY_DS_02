@@ -21,6 +21,6 @@ This repository contains my data cleaning and exploratory data analysis (EDA) of
 - Social titles (like Mr, Miss, etc.) highlighted survival patterns
 
 ## 👩‍💻 Author
-**Khushi Dalal** – Data Science Intern  
-📬 [khushidalal0001@gmail.com](mailto:khushidalal0001@gmail.com)
+**Shreyash Ingale** – Data Science Intern  
+
 
